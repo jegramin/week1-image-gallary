@@ -1,0 +1,43 @@
+{
+  "photos": [
+    {
+      "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYfMPcAxyire9wgMx8r5ePPbLe-U66ky2Rn_6md69I9KgBzRNM",
+      "category": "category1",
+      "title": "title1",
+      "discription": "discription1",
+      "date": "2222-02-22",
+      "id": 3
+    },
+    {
+      "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSnaa6XJ3vFSqrT4aYXG7L1avuTV6MYcRRmDpxU8LYacMKktNk20g",
+      "category": "category2",
+      "title": "title2",
+      "discription": "discription2",
+      "date": "2222-02-22",
+      "id": 4
+    },
+    {
+      "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSqw8RXQ9sKPeuj16k0BpScYIa6OFx8gWP9dYfxF3fQL4aFM4P_",
+      "category": "category3",
+      "title": "title3",
+      "discription": "discription3",
+      "date": "2222-02-22",
+      "id": 5
+    },
+    {
+      "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRjnrVFBBKnLmBOabQFNsQ4dxewK5LSNww2pwwFc8-IrApYOtPW0g",
+      "category": "category4",
+      "title": "title4",
+      "discription": "discription4",
+      "date": "2222-02-22",
+      "id": 6
+    }
+  ],
+  "category": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ]
+}
